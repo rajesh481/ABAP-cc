@@ -7,9 +7,9 @@ The challenge will run for four weeks. These challenges must be completed and su
 
 Here is the detailed timeline:
 
-May 10th, 2023 – Start of Challenge: [**Week 1 Challenge**](https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-open-source-abap-week-1/m-p/259306#M1284)
+May 10th, 2023 – Start of Challenge: [Week 1 Challenge](https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-open-source-abap-week-1/m-p/259306#M1284)
 
-May 17th, 2023 – [**Week 2 Challenge**](https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-open-source-abap-week-2/m-p/260727#M1372)
+May 17th, 2023 – [Week 2 Challenge](https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-open-source-abap-week-2/m-p/260727#M1372)
 
 May 24th, 2023 – Week 3 Challenge
 
