@@ -1,15 +1,15 @@
 # ABAP-cc
 Repository for ABAP code challenge 
 
-This has created as part of ABAP code challenge for open source ABAP.
+This has created as part of 2023 [**SAP Developer code challenge - open source ABAP**](https://blogs.sap.com/2023/05/10/sap-developer-code-challenge-open-source-abap/).
 
 The challenge will run for four weeks. These challenges must be completed and submitted to count toward the overall monthly challenge. Be sure to check back to this blog post to find out what the upcoming week’s challenge will be!
 
 Here is the detailed timeline:
 
-May 10th, 2023 – Start of Challenge: Week 1 Challenge (https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-open-source-abap-week-1/m-p/259306#M1284)
+May 10th, 2023 – Start of Challenge: [**Week 1 Challenge**](https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-open-source-abap-week-1/m-p/259306#M1284)
 
-May 17th, 2023 – Week 2 Challenge 
+May 17th, 2023 – [**Week 2 Challenge**](https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-open-source-abap-week-2/m-p/260727#M1372)
 
 May 24th, 2023 – Week 3 Challenge
 
